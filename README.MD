@@ -1,1 +1,1 @@
-JIRA BAEL-167
+Spring Boot template project for war deployment to a JVM container like JBoss
